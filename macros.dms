@@ -1,0 +1,4 @@
+macro
+	Space return "Shoot"
+	K return "Kick"
+	G return "Give"

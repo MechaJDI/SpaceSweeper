@@ -1,0 +1,39 @@
+"a" = (/turf/Space,/area)
+"b" = (/turf/Barrier,/area)
+"c" = (/turf/Space,/obj/Spawner,/obj/PSpawner,/turf/Exit2,/area)
+"d" = (/turf/Space,/obj/PSpawner,/obj/Spawner,/turf/Exit2,/area)
+"e" = (/turf/Space,/turf/Exit,/area)
+"f" = (/turf/Space,/turf/Barrier,/area)
+
+(1,1,1) = {"
+aaaaaaaabccccccccccccccccccdbaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaaaaa
+aaaaaaaabeeeeeeeeeeeeeeeeeeebaaaaaaaaaaa
+aaaaaaaabfffffffffffffffffffbaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

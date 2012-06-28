@@ -1,0 +1,27 @@
+"a" = (/turf/Space,/obj/Spawner,/obj/PSpawner,/turf/Exit2,/area)
+"b" = (/obj/PSpawner,/turf/Space,/area)
+"c" = (/obj/PSpawner,/obj/Powerups/Shipup,/turf/Space,/area)
+"d" = (/turf/Space,/area)
+"e" = (/obj/Powerups/Shipup,/turf/Space,/area)
+"f" = (/turf/Space,/turf/Exit,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaa
+bbbbbbcbbbbbbbbbbb
+ddddddeddddddddddd
+dddddddddddddddddd
+dddddddddddddddddd
+dddddddddddddddddd
+dddddddddddddddddd
+dddddddddddddddddd
+dddddddddddddddddd
+dddddddddddddddddd
+dddddddddddddddddd
+dddddddddddddddddd
+dddddddddddddddddd
+dddddddddddddddddd
+dddddddddddddddddd
+dddddddddddddddddd
+dddddddddddddddddd
+ffffffffffffffffff
+"}

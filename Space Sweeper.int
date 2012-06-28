@@ -1,0 +1,28 @@
+// BEGIN_INTERNALS
+/*
+MAP_ICON_TYPE: 0
+PACKAGE_RSC_NAME: C:\Documents and Settings\JDI\My Documents\First Worlds\Space Sweeper\Space Sweeper_rsc.zip
+LAST_COMPILE_VERSION: 477.1084
+PACKAGE_DMS_CLEANCHECK: OFF
+PACKAGE_DME_DEMO: 
+PACKAGE_DME_CLEANCHECK: OFF
+PACKAGE_TYPE: 0
+PACKAGE_DMB_HUB: MechaDestroyerJD.SpaceSweeper
+PACKAGE_DMB_EXECHECK: ON
+PACKAGE_DMS_EXECHECK: OFF
+PACKAGE_RSC_CLEANCHECK: OFF
+PACKAGE_DMB_CLEANCHECK: ON
+PACKAGE_DME_START: 
+PACKAGE_DME_NAME: C:\Documents and Settings\JDI\My Documents\First Worlds\Space Sweeper\Space Sweeper_src.zip
+FILE: notes.dm
+PACKAGE_DMS_URL: 
+PACKAGE_DME_INFO: 
+PACKAGE_DMS_RSCCHECK: OFF
+PACKAGE_DMB_NAME: C:\Documents and Settings\JDI\My Documents\First Worlds\Space Sweeper\SpaceSweeper.zip
+PACKAGE_DMS_NAME: C:\Documents and Settings\JDI\My Documents\First Worlds\Space Sweeper\Space Sweeper_link.zip
+LAST_COMPILE_TIME: 1285703969
+AUTO_FILE_DIR: ON
+PACKAGE_DMB_INFO: disappear.mid, grin.mid, lostindaze.mid, explosion.wav, shot.wav, shot2.wav
+PACKAGE_DMS_INFO: 
+*/
+// END_INTERNALS

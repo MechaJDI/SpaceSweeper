@@ -1,0 +1,30 @@
+// DM Environment file for Space Sweeper.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "backup"
+#define FILE_DIR "screenshots"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "movements.dm"
+#include "notes.dm"
+#include "npc procs.dm"
+#include "npcs.dm"
+#include "objects.dm"
+#include "powerups.dm"
+#include "procs.dm"
+#include "Space Sweeper.dm"
+#include "turfs.dm"
+#include "game.dmp"
+#include "macros.dms"
+// END_INCLUDE
+
